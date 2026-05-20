@@ -301,7 +301,3 @@ SecureBankingTransactionSystemApplication.java
 * Microservices Architecture
 
 ---
-
-# License
-
-This project is for educational and learning purposes.
