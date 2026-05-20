@@ -18,7 +18,6 @@ The project uses JWT Authentication, Spring Security, MySQL Database, and REST A
 * Transaction History
 * Audit Logging
 * Exception Handling
-* Swagger API Documentation
 * MySQL Database Integration
 
 ---
@@ -38,11 +37,7 @@ The project uses JWT Authentication, Spring Security, MySQL Database, and REST A
 ## Database
 
 * MySQL
-
-## Documentation
-
-* Swagger OpenAPI
-
+  
 ---
 
 # Project Structure
