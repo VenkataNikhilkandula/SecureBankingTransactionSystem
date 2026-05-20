@@ -190,12 +190,6 @@ server.port=8080
 | ------ | ----------------- | -------------- |
 | GET    | `/api/audit/logs` | Get Audit Logs |
 
----
-
-# Swagger Documentation
-
-After running the project:
-
 ```bash
 http://localhost:8080/swagger-ui/index.html
 ```
@@ -218,7 +212,6 @@ Open the project in:
 
 * IntelliJ IDEA
 * Eclipse
-* VS Code
 
 ---
 
@@ -306,12 +299,6 @@ SecureBankingTransactionSystemApplication.java
 * Docker Deployment
 * Kubernetes Support
 * Microservices Architecture
-
----
-
-# Author
-
-Developed using Java Spring Boot.
 
 ---
 
